@@ -39,7 +39,7 @@ export const Testimonials = () => {
         <div className="">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-            Gratitude for a Career-Changing Opportunity, I wanted to take a moment to express my heartfelt gratitude for the incredible opportunity I've had to graduate from JIET College.
+            Gratitude for a Career-Changing Opportunity, I wanted to take a moment to express my heartfelt gratitude for the incredible opportunity I&apos;ve had to graduate from JIET College.
             </p>
 
             <Avatar

@@ -16,6 +16,9 @@ module.exports = {
           "scroll var(--animation-duration, 40s) var(--animation-direction, forwards) linear infinite",
         aurora: "aurora 60s linear infinite",
       },
+      eslint: {
+        ignoreDuringBuilds: true,
+    },
       keyframes: {
         scroll: {
           to: {
